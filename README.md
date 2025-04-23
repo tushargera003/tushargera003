@@ -1,73 +1,106 @@
-<h1 align="center">Hi 👋, I'm Tushar Gera</h1>
-<h3 align="center">Full Stack MERN Developer | UI/UX Enthusiast | Problem Solver</h3>
-
+<!-- Banner / 3D Profile Image -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Building MERN Apps 🔥-blueviolet?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Tailwind CSS Lover 💖-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Always Learning 💻-ff5722?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open Source Contributor 🌍-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-UI/UX Obsessed 🎨-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Problem Solver 🧠-c084fc?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="./profile-3d-contrib.svg" width="300" alt="Tushar’s 3D GitHub Contributions"/>
 </p>
 
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/tushargera003">Tushar Gera</a></h1>
+<h3 align="center">Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver</h3>
 
+<!-- Socials -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js%20Backend%20Fan%20🧩-333?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB%20Magic%20📦-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dockerized%20Deployments%20🐳-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis%20for%20Speed%20🚀-d82c20?style=for-the-badge&logo=redis&logoColor=white" />
+  <a href="mailto:tushargera006@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tushar-gera">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tushargera003">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-git-main-tushar-geras_projects.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-FF6F61?style=for-the-badge&logo=Hugo&logoColor=white"/>
+  </a>
 </p>
 
+---
 
-
+## 🚀 What I’m Up To
+- 🌱 Building **production-grade web apps** with DDoS protection, Redis cache & Docker orchestration  
+- 🔭 Currently crafting a **scalable land-services platform** for 100K+ monthly users  
+- 🎨 Experimenting with **micro-animations** & advanced **UI/UX** patterns  
+- 💬 Ask me about React, Node.js, MongoDB, Docker, Redis  
 
 ---
 
-- 🌱 I’m currently building **production-grade web apps** with DDoS protection, Redis, and Docker.
-- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-git-main-tushar-geras_projects.vercel.app)
-- 💬 Ask me about **React, Node.js, MongoDB, Docker, Redis**
-- 📫 How to reach me: tushargera006@gmail.com | +91 7053371296
-- ⚡ Fun fact: I once built a chat with admin panel for an e-commerce site 😎
+## 🧰 Tech Stack & Tools
+
+<details>
+  <summary>Frontend & UI</summary>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/DaisyUI-14b8a6?style=flat-square"/>
+  </p>
+</details>
+<details>
+  <summary>Backend & Database</summary>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-d82c20?style=flat-square&logo=redis&logoColor=white"/>
+  </p>
+</details>
+<details>
+  <summary>DevOps & Others</summary>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  </p>
+</details>
 
 ---
 
-### 🧰 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
----
-
-### 🚀 Featured Projects
-
-**🛒 E-commerce Platform**  
-A full-stack MERN shop with wishlist, chat, DDoS protection, persistent cart, coupons.  
-🔗 [Live](https://myshop-pro.vercel.app)
-
-**📊 Admin Dashboard Ecommerce**  
-Manage users, orders, pricing, services, and newsletter from one dashboard.  
-🔗 [Live](https://reaI-estate-pro-web.vercel.app)
-
-**🧾 Resume Builder**  
-Frontend-only resume builder with drag-drop photos, animations & custom styles.  
-🔗 [Live](https://resume-builder-psi-dusky.vercel.app)
-
-**🌐 TG Universe UI Library**  
-A library of handcrafted Tailwind CSS components & layouts.  
-🔗 [Live](https://tg-universe.vercel.app)
-
----
-
-### 📈 GitHub Stats
+## 🌟 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushargera003&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushargera003&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tushargera003&theme=radical&no-frame=true&column=3" alt="Trophies"/>
 </p>
+
+<blockquote align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</blockquote>
+
+---
+
+## 📝 Featured Projects
+
+| Project                          | Description                                                       | Live Demo                                    |
+|----------------------------------|-------------------------------------------------------------------|----------------------------------------------|
+| **🛒 E-commerce Platform**         | MERN shop with wishlist, chat, DDoS protection, persistent cart   | https://myshop-pro.vercel.app               |
+| **📊 Admin Dashboard**             | Manage users, orders, pricing, newsletters in one dashboard      | https://real-estate-pro-web.vercel.app      |
+| **🧾 Resume Builder**              | Drag-drop photos, multi-style templates, Framer Motion Animations | https://resume-builder-psi-dusky.vercel.app |
+| **🌐 TG Universe UI Library**      | Handcrafted Tailwind CSS components & page layouts               | https://tg-universe.vercel.app               |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tushargera003&show_icons=true&theme=radical" alt="Tushar's GitHub Stats"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargera003&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargera003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+> 🔗 Feel free to **pin** any of my repos for a quick look, or **drop me a line** if you’d like to collaborate on something epic!
+
+---
+
+_Last updated on **April 23, 2025**_  

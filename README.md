@@ -2,10 +2,22 @@
 <h3 align="center">Full Stack MERN Developer | UI/UX Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Building MERN Apps with 🔥-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tailwind Lover 💖-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Always Learning 💻-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Building MERN Apps 🔥-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Tailwind CSS Lover 💖-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Always Learning 💻-ff5722?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open Source Contributor 🌍-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-UI/UX Obsessed 🎨-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem Solver 🧠-c084fc?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js%20Backend%20Fan%20🧩-333?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB%20Magic%20📦-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dockerized%20Deployments%20🐳-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis%20for%20Speed%20🚀-d82c20?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
 
 
 

@@ -1,11 +1,10 @@
-<!-- Banner / 3D Profile Image -->
-<p align="center">
-  <img src="./profile-3d-contrib.svg" width="300" alt="Tushar’s 3D GitHub Contributions"/>
-</p>
+
+
 
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/tushargera003">Tushar Gera</a></h1>
-<h3 align="center">Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver</h3>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=060270&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Gera;Full+Stack+Architect+%F0%9F%9A%80;UI%2FUX+Artisan+%F0%9F%8E%A8;Code+Alchemist+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
 <!-- Socials -->
 <p align="center">
@@ -90,17 +89,32 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tushargera003&show_icons=true&theme=radical" alt="Tushar's GitHub Stats"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargera003&theme=radical" alt="GitHub Streak"/>
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tushargera003&show_icons=true&theme=radical" alt="Tushar's GitHub Stats"/> -->
+<!--   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargera003&theme=radical" alt="GitHub Streak"/> -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushargera003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-> 🔗 Feel free to **pin** any of my repos for a quick look, or **drop me a line** if you’d like to collaborate on something epic!
 
----
+🤝 **Let's Collab!** 🤝
 
-_Last updated on **April 23, 2025**_  
+<p align="center">
+  <a href="mailto:tushargera006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/tushar_006">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+<!--   <a href="https://calendly.com/tushar-gera">
+    <img src="https://img.shields.io/badge/Book_Call-008080?style=for-the-badge&logo=google-meet&logoColor=white" alt="Calendly"/>
+  </a> -->
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tushargera003.tushargera003" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-%2300ff00?style=flat" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Coffee_Consumption-5_cups_day-%236f4e37?style=flat" alt="Coffee"/>
+</p>
+

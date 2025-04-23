@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=060270&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Gera;Full+Stack+Architect+%F0%9F%9A%80;UI%2FUX+Artisan+%F0%9F%8E%A8;Code+Alchemist+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=CCDB61&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Gera;Full+Stack+Architect+%F0%9F%9A%80;UI%2FUX+Artisan+%F0%9F%8E%A8;Code+Alchemist+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <!-- Socials -->

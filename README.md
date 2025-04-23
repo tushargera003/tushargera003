@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack MERN Developer | UI/UX Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+MERN+Apps+with+🔥;Tailwind+Lover+%F0%9F%92%96;Always+learning+new+techs+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+MERN+Apps+with+🔥;Tailwind+Lover+💖;Always+learning+new+techs+💻" alt="Typing SVG" />
 </p>
+
 
 ---
 

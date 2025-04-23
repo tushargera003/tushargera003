@@ -14,6 +14,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Check if file exists
+        run: |
+          if [ ! -f "profile-3d-contrib.svg" ]; then
+            echo "Error: profile-3d-contrib.svg not found!"
+            exit 1
+          fi
       - name: Commit & Push
         run: |
           git config user.name github-actions
